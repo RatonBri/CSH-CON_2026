@@ -1,1 +1,2 @@
 emoji
+https://emoji-encoder.vercel.app/?mode=encode
